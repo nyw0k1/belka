@@ -15,7 +15,7 @@ from belka.dbmain import async_main#*, sync_user                                
 
 saytxt = ['Мяу', 'Мур', 'Мр-р', 'Мя-а-а', 'Мяф', 'Ме', 'Иди на GreenLightStudio']
 
-bot = Bot(token='7481783584:AAH41qhOYWjvoD4V6xFYldizVXAfqiyANAY')
+bot = Bot(token='token')
 dp = Dispatcher()
 router = Router()
 
